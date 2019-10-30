@@ -1,0 +1,27 @@
+{
+  "name": "hexo-lazyload-image-enhance",
+  "version": "1.0.0",
+  "description": "a hexo plugin which is used to have all images support lazyload, with the help of this functionality, it will improve lots of the loading proformance.",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/barretlee/hexo-lazyload-image-enhance.git"
+  },
+  "bugs": {
+    "url": "https://github.com/barretlee/hexo-lazyload-image-enhance/issues"
+  },
+  "keywords": [
+    "hexo",
+    "hexo plugin",
+    "image lazyload"
+  ],
+  "author": "Barret Lee<barret.china@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^4.3.0",
+    "uglify-js": "^3.0.27"
+  }
+}
